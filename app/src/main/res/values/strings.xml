@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaisesFicherosArrays</string>
+
+    <string name="listas_dinamicas">Listas Dinámicas</string>
+    <string name="action_settings">Settings</string>
+    <string name="País">Settings</string>
+    <string name="Ciudad">Settings</string>
+</resources>

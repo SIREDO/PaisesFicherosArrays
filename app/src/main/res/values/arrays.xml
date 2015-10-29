@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Países">
+        <item>España</item>
+        <item>Alemania</item>
+        <item>Francia</item>
+        <item>Italia</item>
+
+    </string-array>
+    <string-array name="Ciudades_España">
+        <item>Valencia</item>
+        <item>Barcelona</item>
+        <item>Madrid</item>
+    </string-array>
+    <string-array name="Ciudades_Alemania">
+        <item>Munich</item>
+        <item>Berlín</item>
+        <item>Frankfurt</item>
+    </string-array>
+    <string-array name="Ciudades_Francia">
+        <item>París</item>
+        <item>Lyon</item>
+        <item>Marsella</item>
+    </string-array>
+    <string-array name="Ciudades_Italia">
+        <item>Roma</item>
+        <item>Milán</item>
+        <item>Venecia</item>
+    </string-array>
+</resources>
